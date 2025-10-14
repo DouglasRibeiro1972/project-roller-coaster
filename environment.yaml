@@ -1,0 +1,14 @@
+name: project_roller_coaster
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - jupyter
+  - pip
+  - pip:
+    - kaggle
+    - streamlit

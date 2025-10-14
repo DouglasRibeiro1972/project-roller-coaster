@@ -1,0 +1,12 @@
+# Ignorar a pasta de dados brutos
+data/
+
+# Ignorar pastas de ambientes Conda
+.venv
+.conda
+.ipynb_checkpoints/
+
+# Ignorar caches e arquivos temporários do Python
+__pycache__/
+*.pyc
+*.log
